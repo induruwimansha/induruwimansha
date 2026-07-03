@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img src="YOUR_IMAGE_LINK_HERE" alt="Professional Banner" width="100%">
+</div>
+
+
 # 🛠️ Languages & Tools
 
 <p align="center">
