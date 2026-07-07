@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="INDURU RANASINGHE.png" alt="Professional Banner" width="100%">
+  <img src="induru ranasinghe.png" alt="Professional Banner" width="100%">
 </div>
 
 ## 📈 Stats
