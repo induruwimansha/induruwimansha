@@ -3,8 +3,7 @@
   <img src="induru ranasinghe.png" alt="Professional Banner" width="100%">
 </div>
 
-## 📈 Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
 
 
 # 🛠️ Languages & Tools
@@ -123,9 +122,6 @@ GitHub: github.com/induruwimansha
 </div>
 
 ---
-
-### 🌐 Connect With Me
-
 ### 🌐 Connect With Me
 
 <p align="center">
