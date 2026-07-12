@@ -34,11 +34,11 @@
 ---
 <!--
 ✨ GitHub Profile README ✨
-Author: Chamodi Maheesha Jayamini
-GitHub: https://github.com/chamodi-jayamini
+Author: Induru Ranasinghe
+GitHub: github.com/induruwimansha 
 -->
 
-<h1 align="center">👋 Hi, I'm Chamodi Maheesha Jayamini</h1>
+<h1 align="center">👋 Hi, I'm Induru Ranasinghe</h1>
 <h3 align="center">💻 Full Stack Developer | ☁️Software Testing | 🚀 Tech Innovator</h3>
 
 ---
@@ -55,7 +55,7 @@ GitHub: https://github.com/chamodi-jayamini
 ### 🧠 Currently Learning
 - 🧩 **Cloud Platforms** – AWS | AzURE |  
 - ⚙️ **Software testing & Quality Assurance** – Jira | Selenium | Manual testing  
-- 🔐 **Backend Development** – Laraval | PHP | Microservices  
+- 🔐 **Backend Development** – .Net | React | Microservices  
 - 🧮 **Model Integration** – Flask | RESTful ML APIs  
 
 ---
@@ -126,14 +126,18 @@ GitHub: https://github.com/chamodi-jayamini
 
 ### 🌐 Connect With Me
 
+### 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/chamodi-maheesha-a29202216/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:chamodimaheesha2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://chamodi.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://linkedin.com/in/induru-ranasinghe">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:induruwimansha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
-<p align="center">
 
 ---
 
-> 🧠 "Learning, building, and innovating one project at a time."🚀
+> 🧠 "Empowering the future with technology, automation, and innovation."🚀
 
